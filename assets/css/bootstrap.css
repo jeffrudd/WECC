@@ -8313,11 +8313,11 @@ input[type='submit'].btn-sm {
   margin-top: 64px;
 }
 #header.header-nav-top.header-nav-toggle {
-  margin-top: 0;
+  margin-top: 100px;
 }
 @media (max-width: 1199px) {
   #header.header-nav-top.header-nav-toggle {
-    margin-top: 64px;
+    margin-top: 34px;
   }
 }
 .cover #header.header-nav-top {
